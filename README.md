@@ -1,5 +1,0 @@
-# modern-data-stack
-
-tarefas
-
--
