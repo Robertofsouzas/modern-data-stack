@@ -12,9 +12,9 @@ Infraestrutura:
 
 - Subir o Airbyte via docker x
 
-- Subir o Airflow via docker 
+- Subir o Airflow via docker x
 
-- Subir o Metabase via docker
+- Subir o Metabase via docker = substituie pelo Power BI
 
 - Criar o script de execução 
 
