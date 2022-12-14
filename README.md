@@ -40,7 +40,7 @@ Extração:
 
 Preparação:
 
-- No Airbyte (Destination Loading Method):
+- No Airbyte (Destination Loading Method):x
 
     - Local Staging (Ambiente de Desenvolvimento)x
     - Cloud Staging (Ambiente de Produção)x
