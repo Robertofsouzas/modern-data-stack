@@ -1,5 +1,5 @@
 # airbyte-dbt-airflow-snowflake-metabase
-Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Metabase
+Repositório para armazenar os artefatos do Pipeline utilizando Modern Data Stack com AirByte + DBT + Airflow + SnowFlake + Power BI
 
 
 Tarefas:
@@ -65,13 +65,12 @@ Transformação:
 
 Visualização:
 
-- No Metabase:
+- No PowerBI:
 
-    - Conectar Metabase com o Snowflake 
+    - Conectar Power BI com o Snowflake 
     - Criar uma Question  
     - Criar um Dashboard 
-    - Adicionar uma Question 
-    - Visualizar o Resultado  
+    
 
 
 Orquestração:
